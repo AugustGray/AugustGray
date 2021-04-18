@@ -8,3 +8,5 @@ I'm an Architect from ISAD CUU (Instituto Superior de Arquitectura y Diseño de 
 **Web:** Adobe XD, html, css, javascript (basic), python (basic)
 ### OS
 Mac OS, Windows, Debian based Linux
+### Pages
+[ag-compositions](https://ag-compositions.com/ "WIP"), [in-situ](https://insitu-arquitectos.com/), [Dès Vu](https://hellodesvu.com/), [La Musa del Rey Marte](https://musadelreymarte.com/ "WIP")
