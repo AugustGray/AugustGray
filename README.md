@@ -1,8 +1,6 @@
 # August Gray
 ### About me
-I'm an Architect from ISAD CUU (Instituto Superior de Arquitectura y Diseño de Chihuahua)  
-Working as a designer and architect at [in]situ arquitectura [<https://insitu-arquitectos.com>]  
-Also a web design and 3D modeling enthusiast
+I'm an Architect from ISAD CUU (Instituto Superior de Arquitectura y Diseño de Chihuahua), currently working as a designer and architect at [in]situ arquitectura [<https://insitu-arquitectos.com>]. Also a web design and 3D modeling enthusiast
 ### Programs and languages
 **Architecture:** AutoCAD, ArchiCAD  
 **Design:** Adobe Illustrator, Photoshop  
