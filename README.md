@@ -6,7 +6,7 @@ I'm also a web design and 3D modeling enthusiast
 ### Programs and languages
 **Architecture:** AutoCAD, ArchiCAD  
 **Design:** Adobe Illustrator, Photoshop  
-**3D modeling and Render:** SketchUP + Vray, Lumion, Cinema4D, Corona Render, Octane
+**3D modeling and Render:** SketchUP + Vray, Lumion, Cinema4D, Corona Render, Octane  
 **Web:** Adobe XD, html, css, javascript(basic), python (basic)
 ### OS
 Mac OS, Windows, Debian based Linux
