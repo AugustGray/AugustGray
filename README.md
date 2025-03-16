@@ -6,6 +6,6 @@ I'm an Architect from ISAD CUU (Instituto Superior de Arquitectura y Diseño de 
 **3D modeling and Render:** SketchUP + Vray, Lumion, Cinema4D, Corona Render, Octane  
 **Web:** Adobe XD, html, css, javascript (basic), python (basic)
 ### OS
-Mac OS, Windows, Debian based Linux
+Mac OS, Windows, Debian and Arch based Linux
 ### Pages
 [ag-compositions](https://ag-compositions.com/ "WIP"), [In-Situ](https://insitu-arquitectos.com/), [Dès Vu](https://hellodesvu.com/), [La Musa del Rey Marte](https://musadelreymarte.com/ "WIP")
